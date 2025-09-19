@@ -39,4 +39,4 @@ Our system introduces:
 - **Other Tools:** GitHub, Docker, Cloud APIs  
 
 
-   git clone https://github.com/ssks23072004/SMARTWASTEMANAGEMENT.git
+   git clone https://v0-smart-waste-management-five.vercel.app/
