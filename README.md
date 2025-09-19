@@ -46,3 +46,9 @@ Our system introduces:
 <a href="https://github.com/shreya281-tech">
   <img src="https://avatars.githubusercontent.com/shreya281-tech" width="50" height="50">
 </a>
+<a href="https://github.com/prathamnema33">
+  <img src="https://avatars.githubusercontent.com/prathamnema33" width="50" height="50">
+</a>
+<a href="https://github.com/rishabhshahwal">
+  <img src="https://avatars.githubusercontent.com/rishabhshahwal" width="50" height="50">
+</a>
