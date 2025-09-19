@@ -50,5 +50,9 @@ Our system introduces:
   <img src="https://avatars.githubusercontent.com/prathamnema33" width="50" height="50">
 </a>
 <a href="https://github.com/rishabhshahwal">
-  <img src="https://avatars.githubusercontent.com/rishabhshahwal" width="50" height="50">
+  <img src="https://avatars.githubusercontent.com/rishabhshahwal" widvth="50" height="50">
 </a>
+<a href="https://github.com/medhaagrawal2525">
+  <img src="https://avatars.githubusercontent.com/medhaagrawal2525" width="50" height="50">
+</a>
+
