@@ -40,3 +40,9 @@ Our system introduces:
 
 
    our prototype link https://v0-smart-waste-management-five.vercel.app/
+
+
+   ## 👥 Contributors
+<a href="https://github.com/shreya281-tech">
+  <img src="https://avatars.githubusercontent.com/shreya281-tech" width="70" height="70">
+</a>
