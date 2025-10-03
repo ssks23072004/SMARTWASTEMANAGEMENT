@@ -43,9 +43,6 @@ Our system introduces:
 
 
    ## 👥 Team Behind the Project
-<a href="https://github.com/shreya281-tech">
-  <img src="https://avatars.githubusercontent.com/shreya281-tech" width="50" height="50">
-</a>
 <a href="https://github.com/ssks23072004">
   <img src="https://avatars.githubusercontent.com/ssks23072004" width="50" height="50">
 </a>
