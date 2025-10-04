@@ -1,6 +1,6 @@
 # ♻️ Smart Waste Management
 
-A technology-driven solution to make waste collection, segregation, and management more efficient, transparent, and eco-friendly.  
+A technology-driven solution to make waste collection, segregation and management more efficient, transparent and eco-friendly.  
 This project was built as part of the **Smart India Hackathon** initiative.
 
 
