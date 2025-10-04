@@ -1,7 +1,7 @@
 # ♻️ Smart Waste Management
 
 A technology-driven solution to make waste collection, segregation and management more efficient, transparent and eco-friendly.  
-This project was built as part of the ** Hackathon ** initiative.
+This project was built as part of the Hackathon initiative.
 
 
 
@@ -49,4 +49,5 @@ Our system introduces:
   <img src="https://avatars.githubusercontent.com/shreya281-tech" width="50" height="50">
 </a>
 </a>
-
+<a href="https://github.com/Nikhilranjan141">
+  <img src="https://avatars.githubusercontent.com/Nikhilranjan141" width="50" height="50">
